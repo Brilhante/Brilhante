@@ -24,6 +24,8 @@
 </div>  
 
 
-<!---
+<!---Links
 https://dev.to/envoy_/150-badges-for-github-pnk 
-https://github.com/anuraghazra/github-readme-stats#themes--!>
+https://github.com/anuraghazra/github-readme-stats#themes
+https://emojipedia.org/hand-with-fingers-splayed/
+--!>
