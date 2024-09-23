@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" />
+  <img src="https://img.shields.io/badge/Doctrine-2B4463?style=for-the-badge&logo=doctrine&logoColor=white" />
 </div>
 
 
