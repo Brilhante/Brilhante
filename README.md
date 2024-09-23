@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Alan Brilhante 🖐️
 - Bacharel em Sistemas de Informação
-- Cursando Pós - Especialização em Desenvolvimento Web Full Stack - UFG
+- Cursando Pós - Especialização em Desenvolvimento Web Full Stack - UFG <br> 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-brilhante/)
 
 ![Brilhante GitHub stats](https://github-readme-stats.vercel.app/api?username=brilhante&show_icons=true&theme=dracula)
