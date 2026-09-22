@@ -107,28 +107,6 @@ Também utilizo **IA generativa e LLMs como ferramentas de apoio ao desenvolvime
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brilhante&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brilhante&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Brilhante&theme=dracula&hide_border=true" />
-
-</div>
-
----
-
 ## 🎓 Formação
 
 🎓 **Pós-Graduação Lato Sensu em Desenvolvimento Web e Mobile – Full Stack**
@@ -182,7 +160,7 @@ Principais atividades:
 
 ### 🏢 Iron Fence
 
-**Desenvolvedor Full Stack | 2024 – 2026**
+**Desenvolvedor Full Stack**
 
 Atuação em sistemas governamentais estratégicos, desenvolvimento de APIs, integração de soluções e aplicações web.
 
