@@ -1,6 +1,9 @@
-# 👋 Olá! Eu sou Alan Brilhante Coutinho    <a href="https://github.com/Brilhante/curriculo-alan-fullstack/blob/ed1ee1fd7d212760066cf85beea519269c0ff5a7/Desenvolvedor%20-%20Alan%20Coutinho.pdf" target="_blank">
+# 👋 Olá! Eu sou Alan Brilhante Coutinho    
+<div>
+  <a href="https://github.com/Brilhante/curriculo-alan-fullstack/blob/ed1ee1fd7d212760066cf85beea519269c0ff5a7/Desenvolvedor%20-%20Alan%20Coutinho.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Curr%C3%ADculo-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
+</div>
 
 ### 💻 Desenvolvedor Full Stack | Backend | Engenharia de Software
 
