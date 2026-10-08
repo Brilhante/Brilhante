@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Alan Brilhante Coutinho    
+# 👋 Olá! Eu sou Alan  
 <div>
   <a href="https://github.com/Brilhante/curriculo-alan-fullstack/raw/refs/heads/main/Desenvolvedor%20-%20Alan%20Coutinho.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Curr%C3%ADculo-FF9800?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
